@@ -1,6 +1,6 @@
 {
   "name": "delete-workflow-runs",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "GitHub Action to delete workflow runs in a repository.",
   "main": "dist/index.js",
   "private": true,
